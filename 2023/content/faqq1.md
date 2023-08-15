@@ -18,7 +18,7 @@ There is no cost to attend IstioCon 2023. Please enjoy the conference!
 * Find more ways to get involved with the Istio community apart from IstioCon [here](https://istio.io/latest/about/community/join/). 
 
 ### Will recorded sessions be available after the event?
-Yes, all sessions will be recorded. Once each session is over, a recording will be available from the transmission screen (Crowdcast schedule menu), and after the conference they will be posted on our [YouTube channel](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ). Watch for an email after the event with more information about accessing session recordings.
+Yes, all sessions will be recorded. After the conference they will be posted on our [YouTube channel](https://www.youtube.com/channel/UC-zVlo1F3mUbExQ96fABWcQ). 
 
 ### Who do I contact with questions?
 Please feel free to reach out to us at istiocon@istio.io with questions or concerns.

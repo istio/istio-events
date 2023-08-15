@@ -160,6 +160,11 @@ disclaimer = ""
 enable = false
 preloader = "" # use jpg, png, svg or gif format.
 
+# Navigation button
+[params.navigation_button]
+label = "Register"
+link = "https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/co-located-events/istiocon/"
+
 
 ############################# social icon ############################
 [[params.social]]

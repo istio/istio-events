@@ -2,4 +2,4 @@
 
 Repo for https://events.istio.io 
 
-The first website will be for IstioCon 2021 and will be under istiocon-2021.
+This website will be for IstioCon 2023 and will be under istiocon-2023.

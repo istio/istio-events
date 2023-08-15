@@ -35,7 +35,6 @@ Participants at IstioCon may require to interact with the following third party 
 
 
 *   [Sessionize](https://sessionize.com) is used for submitting proposals to speak at the conference. Its privacy policy is available [here](https://sessionize.com/privacy-policy) 
-*   [Crowdcast](https://crowdcast.io) is used for watching the video streamed sessions of the conference. Its privacy policy is available [here](https://www.crowdcast.io/privacy-policy)
 *   [Google Analytics](https://google.com/analytics) is used to track and examine the use of the IstioCon website. Google may use the data collected to contextualize and personalize the ads of its own advertising network. Personal Data collected: Cookies; Usage Data. Place of processing: United States. Its privacy policy is available at [https://policies.google.com/privacy](https://policies.google.com/privacy) and you can opt out at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) 
 
 

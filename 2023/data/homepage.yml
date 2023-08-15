@@ -6,13 +6,9 @@ banner:
   bg_image: "images/hero-background2.jpg"
   date_time : "September 25-26, 2023"
   venue : ""
-  button1:
-    enable : false
-    label : "Join our CFP"
-    link : "https://sessionize.com/istiocon-2023/"
   button2:
-    enable : true
-    label : "Check out the 2023 sessions"
+    enable : false
+    label : "Sessions coming soon"
     link : "/sessions"
 
 
@@ -22,9 +18,9 @@ event_info:
   pretitle: ""
   title : "Join us at IstioCon 2023!"
 #  description : "This year’s IstioCon features content from introductory to advanced levels, split into four main topic tracks. We encourage you to share real world examples, case studies, and success stories that can inspire newcomers to use Istio in production."
-  description: "IstioCon 2023 is the 2nd edition of the community conference for the industry’s most popular service mesh, where you will find lessons learned from running Istio in production, hands-on experiences, and featuring maintainers from across the Istio ecosystem."
+  description: "IstioCon 2023 is the 3nd edition of the community conference for the industry’s most popular service mesh, where you will find lessons learned from running Istio in production, hands-on experiences, and featuring maintainers from across the Istio ecosystem."
   cta_text: "Register now!"
-  cta_link: "https://www.crowdcast.io/e/istiocon-2023"
+  cta_link: "https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/co-located-events/istiocon/"
 
 
 ####################### Timer #############################
@@ -38,7 +34,7 @@ cta_cfp:
 
 ####################### Clients Section #############################
 sponsor:
-  enable : true
+  enable : false
 
   sponsor_group:
   - title : "Platinum "
