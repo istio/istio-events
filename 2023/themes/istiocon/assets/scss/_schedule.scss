@@ -1,0 +1,210 @@
+#TopicTab {
+	background: #eee;
+	border-radius: 5px;
+}
+
+.nav-justified .nav-item {
+	text-align: left !important;
+}
+
+.nav-pills .nav-link {
+	border-radius: 0px;
+	padding: 10px;
+	-webkit-transition: all .45s ease;
+	-moz-transition: all .45s ease;
+	-ms-transition: all .45s ease;
+	-o-transition: all .45s ease;
+	transition: all .45s ease;
+}
+
+.nav-pills .nav-link.active {
+	background: $primary-color;
+	border-radius: 8px;
+	position: relative;
+
+	h2 {
+		color: $white;
+	}
+
+	h5 {
+		color: $white;
+	}
+
+	&:before {
+		width: 0;
+		height: 0;
+		border-style: solid;
+		border-width: 17px 20px 0;
+		border-color: #000 transparent transparent;
+		content: "";
+		position: absolute;
+		bottom: -18px;
+		transform: translateY(-50%);
+		transition: .3s;
+		left: 80px;
+		margin: auto;
+		z-index: -1;
+		border-color: $primary-color transparent transparent;
+	}
+
+}
+
+
+.time-table {
+	.time {
+		flex-basis: 20%;
+	}
+
+	.content {
+		flex-basis: 60%;
+	}
+
+
+	.content-img {
+		flex-basis: 20%;
+
+		img {
+			border-radius: 100%;
+
+			@media screen {
+				width: 100px;
+			}
+		}
+	}
+
+	li {
+		box-shadow: 0 15px 38px 0 rgba(0, 0, 0, 0.1);
+	}
+}
+
+.text-color-2 {
+	color: $secondary-color;
+}
+
+.session-item {
+	display: grid;
+	align-items: start;
+	grid-template-columns: 100px 1fr;
+	column-gap: 20px;
+	margin: 1em 0;
+}
+
+.session-time {
+	white-space: nowrap;
+	padding-top: 1em;
+}
+
+.session-info {
+	padding: 12px;
+	border-radius: 10px;
+	color: #ffffff;
+	background-color: #a0a0a0;
+	cursor: pointer;
+}
+
+a.session-title  {
+	color: #ffffff;
+	font-weight: 600;
+}
+
+a.session-title:hover {
+  color: #ffffff;
+}
+
+a.details-link {
+	font-size: 1.1em;
+	font-weight: 600;
+	text-decoration: underline;
+	color: #ffffff;
+}
+
+.session-info p {
+	margin: 0;
+}
+
+button.all {
+	background-color: #b0b0b0;
+}
+
+.btn-lang.used, .btn-track.used {
+	background-color: #505050 !important;
+}
+
+.btn-lang.english { 
+    background-color: #8080f0;
+}
+
+.btn-lang.chinese { 
+    background-color: #e09090;
+}
+
+.keynote .session-info, button.keynote {
+	background-color: #516baa;
+}
+.use-case .session-info, button.use-case {
+	background-color: #b0b0f0;
+}
+
+.infrastructure-networking .session-info, button.infrastructure-networking {
+	background-color: #e8cd12;
+}
+
+.tools-features-functionality .session-info, button.tools-features-functionality {
+	background-color: #80c9fa;
+}
+.tech-evolution-whats-next .session-info, button.tech-evolution-whats-next {
+	background-color: #d647d6;
+}
+
+.getting-started .session-info, button.getting-started {
+	background-color: #80c090;
+}
+
+
+.lightning .session-info {
+	border-radius: 0px;
+}
+
+.session-item.lightning {
+	margin:0;
+}
+
+
+.networking {
+	margin-top: 1em;
+}
+
+.color-code-list {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.color-code-list button {
+	text-transform: none;
+}
+
+.color-code-item {
+	padding: 10px 18px !important; 
+	border-radius: 6px; 
+	margin-bottom: 1em;
+    margin-right: 1em;
+	line-height: 100%;
+	border: none;
+	color: white;
+}
+
+.session-meta {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.sz-session__title {
+	color: white;
+}
+
+.filter-legend {
+	font-size: 1em;
+	font-style: italic;
+	color: #404040;
+	line-height: 200%;
+}

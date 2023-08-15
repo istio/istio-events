@@ -1,0 +1,118 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "Welcome to IstioCon 2023!"
+  logo : "/images/logo.svg"
+  bg_image: "images/hero-background2.jpg"
+  date_time : "September 25-26, 2023"
+  venue : ""
+  button1:
+    enable : false
+    label : "Join our CFP"
+    link : "https://sessionize.com/istiocon-2023/"
+  button2:
+    enable : true
+    label : "Check out the 2023 sessions"
+    link : "/sessions"
+
+
+############################## Event ##############################
+event_info:
+  enable : true
+  pretitle: ""
+  title : "Join us at IstioCon 2023!"
+#  description : "This year’s IstioCon features content from introductory to advanced levels, split into four main topic tracks. We encourage you to share real world examples, case studies, and success stories that can inspire newcomers to use Istio in production."
+  description: "IstioCon 2023 is the 2nd edition of the community conference for the industry’s most popular service mesh, where you will find lessons learned from running Istio in production, hands-on experiences, and featuring maintainers from across the Istio ecosystem."
+  cta_text: "Register now!"
+  cta_link: "https://www.crowdcast.io/e/istiocon-2023"
+
+
+####################### Timer #############################
+timer:
+  enable : false
+
+####################### CTA CFP #############################
+cta_cfp:
+  enable : false
+
+
+####################### Clients Section #############################
+sponsor:
+  enable : true
+
+  sponsor_group:
+  - title : "Platinum "
+    slug : "gold"
+
+    sponsor:
+      - logo : "images/partners/google.png"
+        link : "https://cloud.google.com/"
+      - logo : "images/partners/solo.io.png"
+        link : "https://www.solo.io/"
+      - logo : "images/partners/tetrate.png"
+        link : "https://www.tetrate.io/"
+      - logo : "images/partners/redhat.png"
+        link : "https://www.redhat.com/"
+
+  - title : "Silver"
+    slug : "gold"
+
+    sponsor:
+      - logo : "images/partners/AspenMesh.png"
+        link : "https://aspenmesh.io/"
+      - logo : "images/partners/IBM.jpg"
+        link : "https://www.ibm.com/"
+      - logo : "images/partners/intel-logo.png"
+        link : "https://www.intel.com/"
+      - logo : "images/partners/airbnb.png"
+        link : "https://careers.airbnb.com/"
+
+
+  - title : "Community"
+    slug : "community"
+
+    sponsor:
+      - logo : "images/partners/packt.png"
+        link : "https://www.packtpub.com/"
+      - logo : "images/partners/manning.png"
+        link : "https://www.manning.com/"
+
+
+
+####################### Schedule #############################
+schedule:
+  enable : false
+
+  
+
+####################### pricing #############################
+pricing:
+  enable : false
+
+
+########################## speaker ##########################
+speakers:
+  enable : false
+  title : "Key speakers"
+  pretitle : "Speakers"
+  description: ""
+
+
+########################## speaker ##########################
+
+testimonial:
+  enable : true
+
+  sponsor_group:
+  - title : "Platinum "
+    slug : "gold"
+
+    sponsor:
+      - logo : "images/partners/google.png"
+        link : "https://cloud.google.com/"
+      - logo : "images/partners/solo.io.png"
+        link : "https://www.solo.io/"
+      - logo : "images/partners/tetrate.png"
+        link : "https://www.tetrate.io/"
+      - logo : "images/partners/redhat.png"
+        link : "https://www.redhat.com/"
