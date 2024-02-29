@@ -5,7 +5,7 @@ title = "IstioCon 2022"
 enableRobotsTXT = true
 DefaultContentLanguage = "en"
 RemovePathAccents = true
-
+canonifyURLs = true
 publishDir = "../deploy/istiocon-2022"
 
 googleAnalytics = "G-D8NGVLNE22"
