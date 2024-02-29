@@ -102,8 +102,8 @@ home = "Home"
 
 # Meta data
 description = "IstioCon 2021 is a community-led online conference, featuring technical talks, case studies and networking activities with Istio users and developers across the world."
-image = "/istiocon-2021/images/card.jpg"
-images = ["/istiocon-2021/images/card.jpg"]
+image = "/images/card.jpg"
+images = ["/images/card.jpg"]
 twitter_user = "@istiocon"
 email = "istiocon@googlegroups.com"
 author = "Software Guru"
@@ -160,15 +160,15 @@ link = "https://istio.io"
 
 [[params.footer_resources]]
 name = "Organizers"
-link = "/istiocon-2021/organizers"
+link = "/organizers"
 
 [[params.footer_resources]]
 name = "Code of Conduct"
-link = "/istiocon-2021/coc"
+link = "/coc"
 
 [[params.footer_resources]]
 name = "Privacy policy"
-link = "/istiocon-2021/privacy"
+link = "/privacy"
 
 [[params.footer_resources]]
 name = "Call for papers"
@@ -176,14 +176,14 @@ link = "https://sessionize.com/istiocon-2021/"
 
 [[params.footer_resources]]
 name = "Partnership opportunities"
-link = "/istiocon-2021/partner/IstioCon2021_Partner_Packages_v2.pdf"
+link = "/partner/IstioCon2021_Partner_Packages_v2.pdf"
 
 [[params.footer_resources]]
 name = "Event Report"
-link = "/istiocon-2021/event-report/IstioCon2021-Report.pdf"
+link = "/event-report/IstioCon2021-Report.pdf"
 
 [[params.footer_produced]]
 name = "Produced by"
-image = "/istiocon-2021/images/SG.png"
+image = "/images/SG.png"
 link = "https://sg.com.mx/"
 
