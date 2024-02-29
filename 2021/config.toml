@@ -7,7 +7,6 @@ DefaultContentLanguage = "en"
 RemovePathAccents = true
 canonifyURLs = true
 googleAnalytics = "G-QB7JLQ9ECY"
-canonifyURLs = true
 publishDir = "../deploy/istiocon-2021"
 
 theme = "istiocon"
