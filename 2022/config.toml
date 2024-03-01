@@ -5,7 +5,7 @@ title = "IstioCon 2022"
 enableRobotsTXT = true
 DefaultContentLanguage = "en"
 RemovePathAccents = true
-
+canonifyURLs = true
 publishDir = "../deploy/istiocon-2022"
 
 googleAnalytics = "G-D8NGVLNE22"
@@ -134,8 +134,8 @@ home = "Home"
 
 # Meta data
 description = "IstioCon is the community conference for the industry’s most popular service mesh. It offers talks and workshops featuring use cases, technical talks, roadmap and community updates. Sessions are presented by Istio users and contributors from all over the world."
-image = "/istiocon-2022/images/card.jpg"
-images = ["/istiocon-2022/images/card.jpg"]
+image = "/images/card.jpg"
+images = ["/images/card.jpg"]
 twitter_user = "@istiocon"
 email = "istiocon@googlegroups.com"
 author = "Software Guru"
@@ -197,19 +197,19 @@ link = "https://istio.io"
 
 [[params.footer_resources]]
 name = "About"
-link = "/istiocon-2022/about"
+link = "/about"
 
 [[params.footer_resources]]
 name = "Organizers"
-link = "/istiocon-2022/organizers"
+link = "/organizers"
 
 [[params.footer_resources]]
 name = "Code of Conduct"
-link = "/istiocon-2022/coc"
+link = "/coc"
 
 [[params.footer_resources]]
 name = "Privacy policy"
-link = "/istiocon-2022/privacy"
+link = "/privacy"
 
 [[params.footer_resources]]
 name = "Call for papers"
@@ -217,14 +217,14 @@ link = "https://sessionize.com/istiocon-2022/"
 
 [[params.footer_resources]]
 name = "Prospectus"
-link = "/istiocon-2022/partners/IstioCon2022-Prospectus.pdf"
+link = "/partners/IstioCon2022-Prospectus.pdf"
 
 [[params.footer_resources]]
 name = "Event Report"
-link = "/istiocon-2022/event-report/IstioCON 2022 Report.pdf"
+link = "/event-report/IstioCON 2022 Report.pdf"
 
 [[params.footer_produced]]
 name = "Produced by"
-image = "/istiocon-2022/images/SG.png"
+image = "/images/SG.png"
 link = "https://sg.com.mx/"
 
